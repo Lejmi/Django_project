@@ -1,0 +1,13 @@
+A table with several fields (depending on the chosen theme).
+4 pages corresponding to the CRUDs:
+Adding an item.
+Displaying items.
+Editing an item.
+Deleting an item.
+Using SQLite3 as a database.
+User interface with Django templates.
+Project structured in MVT (Model - View - Template).
+Using a virtual environment (venv).
+Authentication system (login/logout)
+Adding an image field (image upload)
+Recherche d’éléments dans la base de données
